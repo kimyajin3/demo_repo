@@ -1,6 +1,6 @@
 # demo_repo
 Demonstration repository for class.
-## Let'sadd a headline
+## Let's add a headline
 
 -Welcome to STATS 21!
 
